@@ -36,4 +36,4 @@ print_r($response);
 
 ## Docs
 
-https://fluxsave-sdk-docs.vercel.app/
+https://fluxsave-sdk-docs.vercel.app/ (SDK reference + examples)
